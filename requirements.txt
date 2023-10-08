@@ -1,0 +1,13 @@
+certifi==2023.7.22
+charset-normalizer==3.3.0
+docutils==0.20.1
+filestack-python==3.5.0
+idna==3.4
+Kivy==2.2.1
+Kivy-Garden==0.1.5
+numpy==1.26.0
+opencv-python==4.8.1.78
+Pygments==2.16.1
+requests==2.31.0
+trafaret==2.0.2
+urllib3==2.0.6
